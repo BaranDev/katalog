@@ -38,13 +38,13 @@
 
 ## Project Description
 
-Katalog is a mobile application built with React Native. It aims to provide users with a seamless experience for managing and browsing, and keeping the tracks of your products in a local database.
+Katalog is a starter template for building mobile catalog applications with React Native. It provides a foundation for managing and browsing products in a local database, which you can customize for your specific needs.
 
 ### Overview
-- **Purpose**: To offer an intuitive platform for catalog management.
-- **Core Functionalities**: Image view, product display, and item management.
-- **Target Audience**: Individuals and businesses needing a catalog management solution.
-- **Key Customizations**: UI themes, component properties, and image handling.
+- **Purpose**: To provide a starting point for building catalog management apps
+- **Core Functionalities**: Image view, product display, and item management
+- **Target Users**: Developers building catalog-based applications
+- **Customization Options**: UI themes, component properties, and image handling
 
 ## Features
 
